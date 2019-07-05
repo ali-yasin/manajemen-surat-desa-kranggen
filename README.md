@@ -14,14 +14,14 @@ Aplikasi manajemen surat menyurat ini memiliki beberapa fitur, antara lain:
 - Edit profil dan password user.
 - Backup dan restore database.
 
-  Demo : https://earsip.aliyasin.me
+Demo : https://earsip.aliyasin.me
 
-  Hak akses Super User
-  Username : putry
-  password : amelia
+Hak akses Super User
+Username : putry
+Password : amelia
 
-  Hak akes User biasa
-  Username : ithaa
-  password : widianti
+Hak akes User biasa
+Username : ithaa
+Password : widianti
 
-  Thx baby :)
+Thx baby :)
